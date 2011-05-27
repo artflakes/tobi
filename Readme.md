@@ -1,3 +1,5 @@
+# __This is a slight fork of the original tobi, adding SSL handling
+etc.__
 
 # Tobi
 
